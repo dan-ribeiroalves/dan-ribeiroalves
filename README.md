@@ -21,6 +21,7 @@
     <a href="https://www.facebook.com/profile.php?id=100009307332282" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     
     ![Snake animation](https://github.com/dan-ribeiroalves/dan-ribeiroalves/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
   
   ##
