@@ -1,5 +1,5 @@
 ### Hello World 👽
-👨‍🎓 Front End Programming Student
+👨‍🎓 Front End Programmer
 ##
 <div align="center">
   <a href="https://github.com/dan-ribeiroalves">
